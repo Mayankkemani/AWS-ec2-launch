@@ -3,6 +3,8 @@
 ## Project Overview
 Launched my first AWS EC2 instance using IAM user instead of root account. Deployed Apache web server via User Data script.
 
+URL: http://15.206.79.233
+
 ## Architecture
 IAM User `mayani-admin` → EC2 `t3.micro` → Security Group → Apache → Public Website
 
